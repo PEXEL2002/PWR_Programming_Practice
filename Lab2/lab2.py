@@ -45,7 +45,6 @@ class Board:
     _cells = []
     _width = 0
     _height = 0
-
     def __init__(self, width, height):
         self._width = width
         self._height = height
